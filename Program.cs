@@ -2,6 +2,8 @@
 {
     static void Main(string[] args)
     {
+        Console.Title = "Ed boy";
+        Console.ForegroundColor = ConsoleColor.Green;
         int[] MyArray ={1,2,3,4,5,6,7,8};
         ParamsArray(MyArray);
         ParamsArray(5,6,7,8,9);
