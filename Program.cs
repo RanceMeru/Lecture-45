@@ -18,7 +18,7 @@
             Console.WriteLine(Array[i]);
 
         }
-
+        Console.ReadLine();
     }
 
 }
